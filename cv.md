@@ -32,3 +32,10 @@ return "Hello World!";
 
 - Video game translator (EN-RU) 2021-2022
 - rsschool-cv
+
+## Education
+
+- Saint Petersburg State University of Aerospace Instrumentation, Bachelor's degree in Translation and Translation Studies
+- ###### Courses:
+  - [HTML Academy](https://htmlacademy.ru/)
+  - [The Complete JavaScript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/)
