@@ -27,3 +27,8 @@ const greet = function() {
 return "Hello World!";
 }
 ```
+
+## Experience
+
+- Video game translator (EN-RU) 2021-2022
+- rsschool-cv
