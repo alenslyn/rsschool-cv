@@ -1,7 +1,5 @@
 # Alevtina Balina
 
----
-
 ## Contacts
 
 - Email: alevtina.balina@gmail.com
