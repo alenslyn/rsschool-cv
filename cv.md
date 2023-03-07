@@ -39,3 +39,7 @@ return "Hello World!";
 - ###### Courses:
   - [HTML Academy](https://htmlacademy.ru/)
   - [The Complete JavaScript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/)
+
+## English
+
+C1 (I've worked as an EN-RU translator for two years)
