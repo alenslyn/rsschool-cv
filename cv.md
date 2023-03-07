@@ -19,3 +19,11 @@ I used to work as a video game translator, which was a lot of fun. But now I'm r
 - Figma
 - JavaScript (Basic)
 - Git
+
+## Code Example
+
+```
+const greet = function() {
+return "Hello World!";
+}
+```
